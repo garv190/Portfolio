@@ -49,6 +49,21 @@ tion.`,
       
     },
     {
+      title: 'Revolutionizing Trend Discovery ',
+      description: 'This was the project designed for Hackathon conducted by fashion brand Stylumia.',
+      fullDescription: `Engineered a data-driven dashboard leveraging AI models to predict future sales trends with 85% enabling
+ brands to optimize marketing strategies.
+ Designed a user-friendly interface with 100+ real-time filters, improving data accessibility and trend visualiza
+tion by 40% efficiency.`,
+      image: 'trends.png',
+      technologies: [' Figma', 'TailwindCss', 'React'],
+      github: 'https://www.figma.com/design/7rOQGDJPdGLE9WE5bDAnp6/Untitled?node-id=0-1&p=f',
+      live: 'https://www.figma.com/proto/7rOQGDJPdGLE9WE5bDAnp6/Untitled?page-id=0%3A1&node-id=24-859&viewport=-2900%2C-504%2C0.27&t=5qSX1XDFii6eCmzl-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=24%3A859&show-proto-sidebar=1'
+     
+    },
+
+    
+     {
       title: 'Cryptocurrency Trading Simulator',
       description: 'Analytics dashboard for real time cryptocurrency trading simulation with live data updates.',
       fullDescription: `Designed and deployed a real-time system to compute transaction costs across 5,000+ daily market events
