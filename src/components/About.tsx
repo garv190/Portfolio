@@ -66,7 +66,7 @@ const About = () => {
           <div className="relative">
             <div className="relative z-10 bg-gradient-to-br from-gray-700 to-gray-800 rounded-2xl p-8 shadow-2xl">
               <img
-                src="src\assets\profile.png"
+                src="profile.png"
                 alt="Profile"
                 className="w-full h-80 object-cover rounded-lg mb-6"
               />
