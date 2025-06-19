@@ -76,7 +76,7 @@ const Hero = () => {
    const downloadResume = () => {
     // Create a link to the resume file
     const link = document.createElement('a');
-    link.href = 'Garv_Jauhari_Resume.pdf'; // Make sure this matches your resume file name
+    link.href = './assets/Garv_Jauhari_Resume.pdf'; // Make sure this matches your resume file name
     link.download = 'Garv_Jauhari_Resume.pdf'; // Name that will appear when downloading
     document.body.appendChild(link);
     link.click();

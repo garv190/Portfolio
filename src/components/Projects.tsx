@@ -15,7 +15,7 @@ const Projects = () => {
       fullDescription: `Engineered a high-performance event platform managing 1,000+ user registrations. Designed an efficient data model handling 1000+ data entries reducing query execution time by 40%.
       Implemented lazy loading and server-side rendering (SSR) reducing initial page load time from 2.5s to
  1.5s.`,
-      image: 'esummit.png',
+      image: './assets/esummit.png',
       technologies: ['NextJs', 'MongoDB', 'Google Authentication', 'Aceternity UI'],
       github: 'https://github.com/garv190/IIIT-s-E-Summit-24',
       live: 'https://esummit24.iiitp.ac.in/'
@@ -29,7 +29,7 @@ const Projects = () => {
  Integrated an AI-powered chatbot providing travel suggestions and cost estimates for 50+ destinations.
  Designed scalable group chat and trip coordination features, with future plans for Payment Gateway integra
 tion.`,
-      image: 'travfin.png',
+      image: './assets/travfin.png',
       technologies: [' Docker', 'ExpressJs', ' MongoDb', 'Langchain', 'Material-UI'],
       github: 'https://github.com/garv190/Travfin',
       live: 'https://travfin-carefree-travel.netlify.app/'
@@ -42,7 +42,7 @@ tion.`,
  Constructed a scalable backend, optimizing server performance to support 350+ concurrent users, ensuring
  seamless real-time event tracking.
  Engineered API rate-limiting mechanisms, preventing DDoS vulnerabilities and enhancing system security.`,
-      image: 'oth.png',
+      image: './assets/oth.png',
       technologies: ['React', ' PostgreSQL', ' Express.js', 'Tailwind CSS', 'Node.js'],
       github: 'https://github.com/garv190/oth_final',
       live: 'https://github.com/garv190/oth_final'
@@ -54,7 +54,7 @@ tion.`,
       fullDescription: `Designed and deployed a real-time system to compute transaction costs across 5,000+ daily market events
  with 97% precision.
  Analyzed market impact trends to support strategic trading decisions, reducing slippage by 22%.`,
-      image: 'tradesimulator.png',
+      image: './assets/tradesimulator.png',
       technologies: ['GSAP', 'TailwindCss', 'Flask', 'WebSockets', 'Chart.js'],
       github: 'https://github.com/garv190/GoQuant',
       live: 'https://github.com/garv190/GoQuant'
