@@ -74,7 +74,20 @@ tion by 40% efficiency.`,
       github: 'https://github.com/garv190/GoQuant',
       live: 'https://github.com/garv190/GoQuant'
      
+    },
+
+    {
+      title: 'Bhav Tol',
+      description: 'A modern marketplace application designed specifically for hostel communities.',
+      fullDescription: `students can buy and sell everyday essentials like Maggi noodles, chips, toothpaste, and other small items. Built with React frontend and Java Spring Boot backend with real-time chat functionality.`,
+      image: 'naptol.png',
+      technologies: ['React', 'TailwindCss', 'Springboot', 'WebSockets', 'Supabase'],
+      github: 'https://github.com/garv190/Hostel-Bazzar',
+      live: 'https://github.com/garv190/Hostel-Bazzar'
+     
     }
+
+
   ];
 
   useEffect(() => {
