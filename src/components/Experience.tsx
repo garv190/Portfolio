@@ -58,6 +58,25 @@ const Experience = () => {
       ]
     },
 
+
+        {
+      title: `Semi-Finalist in KakushIn Hackathon`,
+      company: 'Nomura',
+      location: 'Mumbai, Maharashtra',
+      period: 'Jun 2025',
+      description: 'Presented a solution for improving the beach cleanup efforts.',
+      achievements: [
+        ' monitoring the quantity and kinds of waste gathered, regional participation rates, volunteerism, and advancements made towards sustainability objectives.',
+        
+      ]
+    },
+
+
+
+
+
+
+
          {
       title: 'Participated in Ada Lovlace Hackathon',
       company: 'Citi Bank',
